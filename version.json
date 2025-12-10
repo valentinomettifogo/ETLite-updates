@@ -2,11 +2,11 @@
 "latest":
   {
     "ETLite": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/1.0.0/"
     },
     "etlite-extractor": {
-      "version": "1.1.1",
+      "version": "1.1.0",
       "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/1.1.1/"
     },
     "doctor": {
