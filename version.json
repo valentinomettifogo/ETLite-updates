@@ -13,8 +13,8 @@
       "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/1.0.0/"
     },
     "etlite-extractor-postgre": {
-      "version": "0.1.0 (preview)",
-      "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/0.1.0 (preview)/"
+      "version": "0.1.0",
+      "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/0.1.0/"
     },
     "updater": {
       "version": "1.0.0",
