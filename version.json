@@ -20,6 +20,10 @@
     "updater": {
       "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/1.0.0/",
       "version": "1.0.0"
+    },
+    "workflow-cli": {
+      "url-darwin": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/workflow-cli/3.0.0/workflow-cli-darwin.zip",
+      "version": "3.0.0"
     }
   }
 }
