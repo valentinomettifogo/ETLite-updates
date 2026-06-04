@@ -17,6 +17,10 @@
       "url-darwin": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/sql-cli/3.0.0/sql-cli-darwin.zip",
       "version": "3.0.0"
     },
+    "update-cli": {
+      "url-darwin": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/update-cli/3.0.0/update-cli-darwin.zip",
+      "version": "3.0.0"
+    },
     "updater": {
       "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/1.0.0/",
       "version": "1.0.0"
