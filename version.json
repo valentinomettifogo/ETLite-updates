@@ -27,7 +27,8 @@
     },
     "workflow-cli": {
       "url-darwin": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/workflow-cli/3.0.0/workflow-cli-darwin.zip",
-      "version": "3.0.0"
+      "url-windows": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/workflow-cli/3.0.1/workflow-cli-windows.zip",
+      "version": "3.0.1"
     }
   }
 }
