@@ -21,6 +21,7 @@
     },
     "update-cli": {
       "url-darwin": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/update-cli/3.0.0/update-cli-darwin.zip",
+      "url-windows": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/update-cli/3.0.0/update-cli-windows.zip",
       "version": "3.0.0"
     },
     "updater": {
