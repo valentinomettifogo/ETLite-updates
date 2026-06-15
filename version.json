@@ -3,7 +3,8 @@
     "ETLite": {
       "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/2.0.1/",
       "url-darwin": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/ETLite/0.1.0/ETLite-darwin.zip",
-      "version": "0.1.0"
+      "url-windows": "https://raw.githubusercontent.com/valentinomettifogo/ETLite-updates/main/releases/ETLite/3.0.0/ETLite-windows.zip",
+      "version": "3.0.0"
     },
     "doctor": {
       "url": "https://github.com/valentinomettifogo/ETLite-updates/tree/main/releases/1.0.1/",
